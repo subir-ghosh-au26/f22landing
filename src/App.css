@@ -1,0 +1,121 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.sec1 {
+    height: 36.938rem;
+    width: 18.5rem;
+    margin-left: 13.781rem;
+    margin-right: 0rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.sec1-text {
+    margin-top: 14.831rem;
+    margin-left: 8.25rem;
+}
+
+.sec2-text {
+    width: 29rem;
+    height: 6.5rem;
+}
+
+.list {
+    margin-top: 6.5rem;
+    width: 19rem;
+    height: 10.5rem
+}
+
+.video {
+    height: 44.625rem;
+    width: 100%;
+}
+
+.logo1 {
+    height: 3.68rem;
+    width: 24.5rem;
+}
+
+.sec2 {
+    height: 36.938rem;
+    width: 18.5rem;
+    margin-left: 0;
+    margin-right: 13.781remrem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.form1 {
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+.review {
+    display: flex;
+    height: 14.75rem;
+    width: 100%;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.rev {
+    height: 1.125rem;
+    width: 5.625rem;
+}
+
+.rev-text {
+    width: 30rem;
+    height: 6.5rem;
+}
+
+.blockquote-footer {
+    color: white;
+}
+
+.sec2 {
+    height: 37rem;
+    width: 18.5rem;
+}
